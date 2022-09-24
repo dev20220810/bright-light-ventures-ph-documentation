@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-24T01:40:12.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="JSUzH5R0dozMiJJtuSDk" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-24T01:41:59.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="gs8dUOYk6bqzFw_DR40P" version="20.3.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,9 +29,11 @@
             <mxPoint x="21" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="TH?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
-        </mxCell>
+        <UserObject label="TH?" link="https://srs.hrd-s.com" id="WIyWlLk6GJQsqaUBKTNV-6">
+          <mxCell style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="rKMKvAkk2KBtUYU5qK6V-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rKMKvAkk2KBtUYU5qK6V-13" target="rKMKvAkk2KBtUYU5qK6V-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="370" as="sourcePoint" />
@@ -39,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="問い合わせ&lt;br&gt;メール送信" link="https://inquiry.hrd-s.com/login" linkTarget="_blank" id="rKMKvAkk2KBtUYU5qK6V-13">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
             <mxGeometry x="160" y="290" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
