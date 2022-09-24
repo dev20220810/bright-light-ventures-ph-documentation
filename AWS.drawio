@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-09-24T04:06:05.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.6" etag="mp9xtjGi1q4xpoIUvE-A" type="github"><diagram id="HYhiI8sn0ddVl0a1hdBo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-24T04:24:27.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="G_E8yZnGpfxFpYDHe3fi" version="20.3.6" type="github">
+  <diagram id="HYhiI8sn0ddVl0a1hdBo" name="Page-1">
+    <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uOfVOvTB0raDaNlcJeLV-1" value="Users" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.users;rounded=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uOfVOvTB0raDaNlcJeLV-2" value="User" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.user;rounded=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uOfVOvTB0raDaNlcJeLV-3" value="AWS Cloud" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#AAB7B8;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;rounded=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="70" width="560" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="uOfVOvTB0raDaNlcJeLV-4" value="Singapore Region(ap-southeast-1)" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=1;rounded=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="100" width="500" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="uOfVOvTB0raDaNlcJeLV-5" value="VPC" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;rounded=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="130" width="440" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="uOfVOvTB0raDaNlcJeLV-6" value="Auto Scaling Group" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.groupCenter;grIcon=mxgraph.aws4.group_auto_scaling_group;grStroke=0;strokeColor=#879196;fillColor=#ECEFEF;verticalAlign=top;align=center;fontColor=#879196;dashed=0;spacingTop=25;rounded=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="160" width="380" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="uOfVOvTB0raDaNlcJeLV-7" value="Amazon EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ec2;rounded=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="380" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uOfVOvTB0raDaNlcJeLV-8" value="Elastic Load Balancing" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.elastic_load_balancing;rounded=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="20" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uOfVOvTB0raDaNlcJeLV-9" value="Application Load Balancer" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.application_load_balancer;rounded=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="210" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uOfVOvTB0raDaNlcJeLV-10" value="AMI" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ami;rounded=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uOfVOvTB0raDaNlcJeLV-11" value="Amazon&#xa;Aurora" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.aurora;rounded=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="10" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uOfVOvTB0raDaNlcJeLV-12" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;rounded=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="390" width="80" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
